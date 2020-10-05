@@ -3,7 +3,7 @@
         xsi:noNamespaceSchemaLocation="findbugsplugin.xsd"
         pluginid="refactoring.kata-spotbugs-rule">
 
-        <Detector class="refactoring.kata.rule.MyDetector" reports="MY_BUG" />
+        <Detector class="refactoring.kata.rule.FeatureEnvyDetector" reports="FEATURE_ENVY_SMELL" />
 
-        <BugPattern abbrev="MY" type="MY_BUG" category="CORRECTNESS" />
+        <BugPattern abbrev="FEATURE_ENVY" type="FEATURE_ENVY_SMELL" category="CORRECTNESS" />
 </FindbugsPlugin>
