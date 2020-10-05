@@ -1,5 +1,7 @@
 # My SpotBugs plugin
 
+![](https://travis-ci.com/meixuesong/refactoring-kata-spotbugs-rule.svg?branch=master)
+
 This spotbugs plugin can check feature envy rule.
 
 Feature envy is a method that uses more methods or variables from another (unrelated) class than from its own class violates the principle of putting data and behavior in the same place.
