@@ -1,4 +1,4 @@
-# My SpotBugs plugin
+# Refactoring Kata SpotBugs plugin
 
 ![](https://travis-ci.com/meixuesong/refactoring-kata-spotbugs-rule.svg?branch=master)
 
