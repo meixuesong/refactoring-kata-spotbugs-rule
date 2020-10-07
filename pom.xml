@@ -2,10 +2,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>refactoring</groupId>
+    <groupId>com.github.meixuesong</groupId>
     <artifactId>kata-spotbugs-rule</artifactId>
     <version>1.0</version>
+
+    <name>refactoring-kata-spotbugs-rule</name>
     <description>My SpotBugs plugin project</description>
+    <url>https://github.com/meixuesong/refactoring-kata-spotbugs-rule</url>
 
     <licenses>
         <license>
